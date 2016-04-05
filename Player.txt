@@ -1,0 +1,5 @@
+MiDp=9
+MaDp=13.5
+pAcc=3
+pDex=1
+pHP=20

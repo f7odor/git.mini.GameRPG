@@ -1,0 +1,5 @@
+MiDm=30
+MxDm=45.0
+m1Acc=14
+m1Dex=7
+m1HP=90
